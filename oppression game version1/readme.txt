@@ -7,4 +7,4 @@ so python pip would be needed
  requires python 3
 would run in pycharm or IDLE 
 Lower your sound
-music from wingless seraph
+boss music from wingless seraph
